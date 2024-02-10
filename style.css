@@ -11,8 +11,14 @@ body {
 }
 
 section {
+<<<<<<< HEAD
 	margin: 15px 0;
 	padding: 0 15px;
+=======
+	margin: 10px 0;
+>>>>>>> ramazan
 }
 
-p {}
+p {
+	font-weight: bold;
+}
